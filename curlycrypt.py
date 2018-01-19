@@ -50,7 +50,7 @@ class Affine(object):
 	def __init__(self):
 		self.inversemod()
 
-
+#About chi-Square Statistic refer: http://www.practicalcryptography.com/cryptanalysis/text-characterisation/chi-squared-statistic/
 	def chiSquare(self, cipher):
 
 		for s in cipher:
