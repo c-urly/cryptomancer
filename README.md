@@ -3,5 +3,8 @@ The aim of this project is to implement all possible classial ciphers.
  
  References:
  
- <a> practicalcryptography.com/ </a>
+ practicalcryptography.com/
  
+ 
+ Some challenges to get your hands dirty.
+ https://cryptopals.com/sets/1
